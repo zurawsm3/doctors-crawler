@@ -1,0 +1,165 @@
+1528674318713	geckodriver	INFO	geckodriver 0.20.0
+1528674318720	geckodriver	INFO	Listening on 127.0.0.1:47675
+1528674320167	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xB3aTDRKKi7C"
+1528674337908	Marionette	INFO	Listening on port 37735
+1528674338117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528674362284	geckodriver	INFO	geckodriver 0.20.0
+1528674362310	geckodriver	INFO	Listening on 127.0.0.1:39905
+1528674363345	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BXssjX1k8yDo"
+1528674384347	Marionette	INFO	Listening on port 39915
+1528674384965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528674401743	geckodriver	INFO	geckodriver 0.20.0
+1528674401770	geckodriver	INFO	Listening on 127.0.0.1:39159
+1528674402785	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jofSeYl7R24s"
+1528674434124	Marionette	INFO	Listening on port 44069
+1528674434501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528674462038	geckodriver	INFO	geckodriver 0.20.0
+1528674462080	geckodriver	INFO	Listening on 127.0.0.1:35357
+1528674463061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.huEmu3Oknjy1"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1528674491732	Marionette	INFO	Listening on port 39455
+1528674491929	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528674520139	geckodriver	INFO	geckodriver 0.20.0
+1528674520238	geckodriver	INFO	Listening on 127.0.0.1:37513
+1528674521161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.t5PnZSoDvK8i"
+1528674543643	Marionette	INFO	Listening on port 46549
+1528674544061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528674567267	geckodriver	INFO	geckodriver 0.20.0
+1528674567290	geckodriver	INFO	Listening on 127.0.0.1:43689
+1528674568361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5MdVXbrm9eGK"
+1528674585475	Marionette	INFO	Listening on port 37945
+1528674585906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528674616053	geckodriver	INFO	geckodriver 0.20.0
+1528674616111	geckodriver	INFO	Listening on 127.0.0.1:52771
+1528674617282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.70vTy6MLYTCr"
+1528674642792	Marionette	INFO	Listening on port 34607
+1528674643285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528674671583	geckodriver	INFO	geckodriver 0.20.0
+1528674671625	geckodriver	INFO	Listening on 127.0.0.1:52849
+1528674672618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jvxNIx04wKfh"
+1528674708041	Marionette	INFO	Listening on port 36681
+1528674708206	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528674750936	geckodriver	INFO	geckodriver 0.20.0
+1528674750948	geckodriver	INFO	Listening on 127.0.0.1:36799
+1528674752125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mw9b5ELNbws7"
+1528674785613	Marionette	INFO	Listening on port 44083
+1528674786459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528674819009	geckodriver	INFO	geckodriver 0.20.0
+1528674819038	geckodriver	INFO	Listening on 127.0.0.1:38107
+1528674820099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vhQJXXTRarXj"
+1528674860549	Marionette	INFO	Listening on port 43987
+1528674861070	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528674907035	geckodriver	INFO	geckodriver 0.20.0
+1528674907283	geckodriver	INFO	Listening on 127.0.0.1:48551
+1528674908242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GQ6SIFm4jCZq"
+1528675846046	geckodriver	INFO	geckodriver 0.20.0
+1528675846156	geckodriver	INFO	Listening on 127.0.0.1:59013
+1528675847043	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.l6H6MoXzKzwT"
+1528675855055	Marionette	INFO	Listening on port 42277
+1528675855212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528675872663	geckodriver	INFO	geckodriver 0.20.0
+1528675872685	geckodriver	INFO	Listening on 127.0.0.1:49763
+1528675873646	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.siKuw6DsO472"
+1528675879945	Marionette	INFO	Listening on port 36169
+1528675880031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528675895510	geckodriver	INFO	geckodriver 0.20.0
+1528675895516	geckodriver	INFO	Listening on 127.0.0.1:59129
+1528675896536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9JxVhG3mxAud"
+1528675904248	Marionette	INFO	Listening on port 40483
+1528675904363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528675919711	geckodriver	INFO	geckodriver 0.20.0
+1528675919719	geckodriver	INFO	Listening on 127.0.0.1:52921
+1528675920726	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oZMoPVPkYTec"
+1528675930704	Marionette	INFO	Listening on port 34425
+1528675930815	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528675948606	geckodriver	INFO	geckodriver 0.20.0
+1528675948647	geckodriver	INFO	Listening on 127.0.0.1:56639
+1528675949620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.f0DNxvmiFKNn"
+1528675960748	Marionette	INFO	Listening on port 43301
+1528675960846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528675973608	geckodriver	INFO	geckodriver 0.20.0
+1528675973625	geckodriver	INFO	Listening on 127.0.0.1:50901
+1528675974634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CAoMXcwG3fJ6"
+1528675987191	Marionette	INFO	Listening on port 40399
+1528675987287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528676008704	geckodriver	INFO	geckodriver 0.20.0
+1528676008727	geckodriver	INFO	Listening on 127.0.0.1:46319
+1528676009737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.i0TXjjTRQ84D"
+1528676025634	Marionette	INFO	Listening on port 46419
+1528676025751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528676049824	geckodriver	INFO	geckodriver 0.20.0
+1528676049860	geckodriver	INFO	Listening on 127.0.0.1:36695
+1528676050865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5dSrEm0OPLD4"
+1528676066883	Marionette	INFO	Listening on port 37753
+1528676067629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528676102480	geckodriver	INFO	geckodriver 0.20.0
+1528676102491	geckodriver	INFO	Listening on 127.0.0.1:45917
+1528676103505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hW9aaWjegfFR"
+1528676123676	Marionette	INFO	Listening on port 46827
+1528676124474	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528676142794	geckodriver	INFO	geckodriver 0.20.0
+1528676142854	geckodriver	INFO	Listening on 127.0.0.1:51361
+1528676143781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Y6dw95tcYA9q"
+1528676173829	Marionette	INFO	Listening on port 34893
+1528676176192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528676201540	geckodriver	INFO	geckodriver 0.20.0
+1528676201555	geckodriver	INFO	Listening on 127.0.0.1:44513
+1528676202551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.udlxtkzKd9pP"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1528676228946	Marionette	INFO	Listening on port 33859
+1528676229033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528676254763	geckodriver	INFO	geckodriver 0.20.0
+1528676254778	geckodriver	INFO	Listening on 127.0.0.1:56179
+1528676255887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dtkVwGKEKguE"
+1528676326385	Marionette	INFO	Listening on port 38357
+1528676336254	geckodriver	INFO	geckodriver 0.20.0
+1528676336285	geckodriver	INFO	Listening on 127.0.0.1:60139
+1528676337491	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CjfiG8pUif3M"
+1528676363665	Marionette	INFO	Listening on port 41695
+1528676364679	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 3099, Gecko_IOThread] WARNING: pipe error: Przerwany potok: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 2497, Gecko_IOThread] WARNING: pipe error: Przerwany potok: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 1896, Gecko_IOThread] WARNING: pipe error: Przerwany potok: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_Teardown Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_Teardown Route error: message sent to unknown actor ID
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 2948, Gecko_IOThread] WARNING: pipe error: Przerwany potok: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 3241, Gecko_IOThread] WARNING: pipe error: Przerwany potok: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 2208, Gecko_IOThread] WARNING: pipe error: Przerwany potok: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 2356, Gecko_IOThread] WARNING: pipe error: Przerwany potok: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1528676931404	geckodriver	INFO	geckodriver 0.20.0
+1528676931429	geckodriver	INFO	Listening on 127.0.0.1:50701
+1528676932396	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.G6muRk9umXR4"
+1528676938149	Marionette	INFO	Listening on port 39549
+1528676938350	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528676956092	geckodriver	INFO	geckodriver 0.20.0
+1528676956098	geckodriver	INFO	Listening on 127.0.0.1:42711
+1528676957086	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.YJW7fjqtLimv"
+1528676963368	Marionette	INFO	Listening on port 34051
+1528676963473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1528676976256	geckodriver	INFO	geckodriver 0.20.0
+1528676976274	geckodriver	INFO	Listening on 127.0.0.1:52739
+1528676977295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3ut9zxNNt7cl"
+1528676987060	Marionette	INFO	Listening on port 46679
+1528676987141	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4596, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4561, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4331, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4469, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4294, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 4432, Chrome_ChildThread] WARNING: pipe error (3): Połączenie zerwane przez drugą stronę: file /build/firefox-AIw0T6/firefox-60.0.1+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1528676990388	geckodriver	INFO	geckodriver 0.20.0
+1528676990459	geckodriver	INFO	Listening on 127.0.0.1:44103
+1528676991398	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hjnfhBdCR2Gl"

@@ -1,0 +1,26 @@
+version: '3'
+services:
+  db:
+    image: 'postgres:latest'
+    expose:
+      - "5432"
+    ports:
+    - "5558:5432"
+    environment:
+      POSTGRES_PASSWORD: postgres123
+      POSTGRES_DB: baza_lekarzy
+  libre:
+    build: ./libre_base
+    volumes:
+      - $HOME/.Xauthority:/root/.Xauthority
+    environment:
+      DISPLAY: $${DISPLAY}
+    network_mode: "host"
+    depends_on:
+      - db
+  app:
+    build: ./doctors_project
+    depends_on:
+      - db
+    command: bash -c "./wait-for-it.sh db:5432 -- scrapy crawl doctors"
+
